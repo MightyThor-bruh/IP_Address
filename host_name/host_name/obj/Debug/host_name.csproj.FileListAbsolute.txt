@@ -1,0 +1,7 @@
+C:\Users\gaechka\source\repos\host_name\host_name\bin\Debug\host_name.exe.config
+C:\Users\gaechka\source\repos\host_name\host_name\bin\Debug\host_name.exe
+C:\Users\gaechka\source\repos\host_name\host_name\bin\Debug\host_name.pdb
+C:\Users\gaechka\source\repos\host_name\host_name\obj\Debug\host_name.csprojAssemblyReference.cache
+C:\Users\gaechka\source\repos\host_name\host_name\obj\Debug\host_name.csproj.CoreCompileInputs.cache
+C:\Users\gaechka\source\repos\host_name\host_name\obj\Debug\host_name.exe
+C:\Users\gaechka\source\repos\host_name\host_name\obj\Debug\host_name.pdb
